@@ -314,28 +314,28 @@ section {
 
 }
 
-.price .icon-box .icon i {
+.role .icon-box .icon i {
   font-size: 28px;
 }
 
-.price .icon-box h4 {
+.role .icon-box h4 {
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 24px;
 }
 
-.price .icon-box h4 a {
+.role .icon-box h4 a {
   color: #b2a2fa;
   transition: ease-in-out 0.3s;
 }
 
-.price .icon-box p {
+.role .icon-box p {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
 }
 
-.price .icon-box:hover {
+.role .icon-box:hover {
   transform: translateY(-15px);
 }
 
@@ -383,6 +383,9 @@ section {
   border: none;
   box-shadow: 0px 5px 90px 0px rgba(88, 7, 112, 0.1);
   border-radius: 15px;
+  justify-content: center;
+  margin: 0 auto;
+  
 }
 
 
